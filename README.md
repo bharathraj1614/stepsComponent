@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # stepsComponent
-Tried creating a step component as a part of learning react
+Tried creating a step component as a part of learning react --- used Children prop
 =======
 # Getting Started with Create React App
 
